@@ -27,7 +27,8 @@ features:
     details: Check out my Blog.
     link: "blog"
     linkText: See
-  - icon: <img src="/mqtt-cli-logo.png">
+  - icon:
+      src: /mqtt-cli-logo.png
     title: mqtt-cli
     details: Explore this open source project.
     link: "https://github.com/hivemq/mqtt-cli"
