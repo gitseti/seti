@@ -4,7 +4,6 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "seti",
   description: "A dev page",
-  base: "/seti/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
