@@ -2,3 +2,6 @@ baseURL = 'https://gitseti.github.io/seti/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-book'
+
+[params]
+    BookTheme = 'dark'
