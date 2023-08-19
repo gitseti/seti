@@ -13,7 +13,7 @@ hero:
       link: "/about"
 features:
   - icon: 👤
-    title: About Me
+    title: About
     details: Learn more about me.
     link: "/about"
     linkText: See
