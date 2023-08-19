@@ -4,6 +4,11 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "seti",
   description: "A dev page",
+  vite: {
+      ssr: {
+        noExternal: ["vuetify"]
+      }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {

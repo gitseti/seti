@@ -1,6 +1,11 @@
 ---
 title: About
+aside: false
 ---
+
+<script setup>
+    import Timeline from './.vitepress/theme/timeline.vue'
+</script>
 
 # Hi there :wave:
 It's a pleasure to meet you! I am Till and welcome to my personal place on the web.
@@ -20,7 +25,6 @@ or play the guitar.
 
 Feel free to look around and get in [touch](mailto:seebergertill@gmail.com)! \:\) 
 
+--- 
 
-
-
-
+<timeline />
