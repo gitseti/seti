@@ -9,6 +9,7 @@ export default defineConfig({
         noExternal: ["vuetify"]
       }
   },
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
